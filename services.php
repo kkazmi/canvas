@@ -32,37 +32,53 @@ include_once('header.php');
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-3 col-md-3">
-                                    <div class="service-block text-left">
-                                        <img src="images/service/01.png" class="img-fluid" alt="#">
-                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Creative Idea</h6>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-3 col-md-3">
                                     <div class="service-block text-left re-mt30">
-                                        <img src="images/service/05.png" class="img-fluid" alt="#">
-                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">PSD Design</h6>
+                                        <img src="images/service/web.png" class="img-fluid" alt="#">
+                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Web Development</h6>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-md-3 col-md-3">
-                                    <div class="service-block text-left re-mt30">
-                                        <img src="images/service/06.png" class="img-fluid" alt="#">
-                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Photo Edits</h6>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-3 col-md-3">
+                                 <div class="col-lg-3 col-md-3 col-md-3">
                                     <div class="service-block text-left re-mt30">
                                         <img src="images/service/03.png" class="img-fluid" alt="#">
                                         <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Web Design</h6>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
+                                <div class="col-lg-3 col-md-3 col-md-3">
+                                    <div class="service-block text-left re-mt30">
+                                        <img src="images/service/word.png" class="img-fluid" alt="#">
+                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Wordpress</h6>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-md-3">
+                                    <div class="service-block text-left">
+                                        <img src="images/service/01.png" class="img-fluid" alt="#">
+                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Creative Idea</h6>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    </div>
+                                </div>
+                               
+                                
                                 <div class="col-lg-3 col-md-3 col-md-3 iq-mt-30">
                                     <div class="service-block text-left re-mt30">
-                                        <img src="images/service/04.png" class="img-fluid" alt="#">
-                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Animation</h6>
+                                        <img src="images/service/draw.png" class="img-fluid" alt="#">
+                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">CorelDRAW</h6>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    </div>
+                                </div>
+                                 <div class="col-lg-3 col-md-3 col-md-3 iq-mt-30">
+                                    <div class="service-block text-left re-mt30">
+                                        <img src="images/service/06.png" class="img-fluid" alt="#">
+                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Photo Edits</h6>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    </div>
+                                </div>
+                                 <div class="col-lg-3 col-md-3 col-md-3 iq-mt-30">
+                                    <div class="service-block text-left re-mt30">
+                                        <img src="images/service/05.png" class="img-fluid" alt="#">
+                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">PSD Design</h6>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
@@ -73,20 +89,7 @@ include_once('header.php');
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-md-3 col-md-3 iq-mt-30">
-                                    <div class="service-block text-left">
-                                        <img src="images/service/08.png" class="img-fluid" alt="#">
-                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Video Edits</h6>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-3 col-md-3 iq-mt-30">
-                                    <div class="service-block text-left">
-                                        <img src="images/service/02.png" class="img-fluid" alt="#">
-                                        <h6 class="iq-tw-6 iq-mt-15 iq-mb-10">Amazing Templates</h6>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
                         <div class="customers grey-bg iq-pall-40 iq-mtb-50">
