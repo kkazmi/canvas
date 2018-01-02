@@ -46,23 +46,23 @@ include_once('header.php');
                                 </div>
                             <div class="iq-get-in">
                             <div id="formmessage">Success/Error Message Goes Here</div>
-                            <form class="form-horizontal" id="contactform" method="post" action="http://iqonicthemes.com/themes/profyl/php/contact-form.php">
+                            <form class="form-horizontal" id="form" method="post" action="contact_form.php">
                                 <div class="contact-form row">
                                     <div class="section-field col-md-4">
-                                        <input id="name" type="text" placeholder="Name*" name="name">
+                                        <input id="name" type="text" placeholder="Name*" name="name" id="name">
                                     </div>
                                     <div class="section-field col-md-4">
-                                        <input type="email" placeholder="Email*" name="email">
+                                        <input type="email" placeholder="Email*" name="email" id="email">
                                     </div>
                                     <div class="section-field col-md-4">
-                                        <input type="text" placeholder="Phone*" name="phone">
+                                        <input type="text" placeholder="Phone*" name="phone" id="contact">
                                     </div>
                                     <div class="section-field textarea col-md-12">
-                                        <textarea class="input-message" placeholder="Comment*" rows="5" name="message"></textarea>
+                                        <textarea  id="message" class="input-message" placeholder="Comment*" rows="5" name="message"></textarea>
                                     </div>
                                     <div class="col-md-12">
                                         <input type="hidden" name="action" value="sendEmail" />
-                                    <button id="submit" name="submit" type="submit" value="Send" class="button iq-mt-30">Send Message</button>
+                                    <button name="submit" type="submit" value="Send" class="button iq-mt-30">Send Message</button>
                                     </div>
                                 </div>
                             </form>
@@ -79,7 +79,6 @@ include_once('header.php');
     </section>
     <!-- About Us End -->
 </div>
-<!-- Main Content End -->
 
 
 <!-- Footer -->
